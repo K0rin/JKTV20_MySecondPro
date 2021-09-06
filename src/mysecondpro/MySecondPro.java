@@ -17,6 +17,7 @@ public class MySecondPro {
     public static void main(String[] args) {
         System.out.println("My Second Programm");
         System.out.println("Hi zoomer");
+        System.out.println("I said hi zoomer");
     }
     
 }
